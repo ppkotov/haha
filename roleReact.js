@@ -4,7 +4,7 @@ const setupCMD = "!aaa"
 let initialMessage = `Choose your language`;
 const roles = ["russian", "english"];
 const reactions = [":flag_ru:", ":flag_gb:"];
-const botToken = "NTQxMjA3NDM2MzQ3MDQ3OTQx.DzcQOg.8KKP4vQ179aZMc4n12lwf_REgV8";
+const botToken = "process.env.1ttookkeenn1";
 
 //Load up the bot...
 const Discord = require('discord.js');
